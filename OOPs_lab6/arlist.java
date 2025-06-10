@@ -22,7 +22,7 @@ class calculator{
 
 }
 
-public class Main {
+public class arlist {
     public static void Main(String[] args){
         ArrayList<Integer> Student = new ArrayList<>();
         Student.add(98);
